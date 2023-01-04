@@ -1,0 +1,169 @@
+Pseudomonas syringae pv. phaseolicola 	 319	
+Pseudomonas andropogonis 	 28092	
+Pseudomonas asplenii 	 53407	
+Pseudomonas avellanae 	 46257	
+Pseudomonas beteli 	 40324	
+Pseudomonas blatchfordae 	 254015	
+Pseudomonas cannabina 	 86840	
+Pseudomonas caricapapayae 	 46678	
+Pseudomonas caryophylli 	 28094	
+Pseudomonas cattleyae 	 80868	
+Pseudomonas cichorii 	 36746	
+Pseudomonas cissicola 	  
+Pseudomonas coronafaciens 	 53409	
+Pseudomonas costantinii 	 168469	
+Pseudomonas dodoneae 	  
+Pseudomonas ficuserectae 	 53410	
+Pseudomonas flectens 	 86187	
+Pseudomonas fuscovaginae 	 50340	
+Pseudomonas gingeri 	 117681	
+Pseudomonas gladioli 	 28095	
+Pseudomonas gladioli pv. alliicola 	  
+Pseudomonas hibiscicola 	 86189	
+Pseudomonas marginalis 	 298	
+Pseudomonas marginalis pv. alfalfae 	 69646	
+Pseudomonas marginalis pv. marginalis 	 97473	
+Pseudomonas marginalis pv. pastinacae 	 281458	
+Pseudomonas mediterranea 	 183795	
+Pseudomonas meliae 	 86176	
+Pseudomonas palleroniana 	 191390	
+Pseudomonas pallidae 	  
+Pseudomonas plantarii 	 41899	
+Pseudomonas pomi 	 438	
+Pseudomonas salomonii 	 191391	
+Pseudomonas savastanoi 	 29438	
+Pseudomonas savastanoi pv. fraxini 	 360922	
+Pseudomonas savastanoi pv. glycinea 	 318	
+Pseudomonas savastanoi pv. nerii 	 360921	
+Pseudomonas savastanoi pv. phaseolicola 	 319	
+Pseudomonas savastanoi pv. retacarpa 	 663708	
+Pseudomonas savastanoi pv. savastanoi 	 360920	
+Pseudomonas solanacearum 	 305	
+Pseudomonas syringae 	 317	
+Pseudomonas syringae group 	 136849	
+Pseudomonas syringae pv. aceris 	 199198	
+Pseudomonas syringae pv. actinidiae 	 103796	
+Pseudomonas syringae pv. aesculi 	 251722	
+Pseudomonas syringae pv. alisalensis 	 757414	
+Pseudomonas syringae pv. antirrhini 	 251702	
+Pseudomonas syringae pv. apii 	 81036	
+Pseudomonas syringae pv. aptata 	 83167	
+Pseudomonas syringae pv. atrofaciens 	 192087	
+Pseudomonas syringae pv. atropurpurea 	 129135	
+Pseudomonas syringae pv. avii 	 663959	
+Pseudomonas syringae pv. berberidis 	 251704	
+Pseudomonas syringae pv. broussonetiae 	 129136	
+Pseudomonas syringae pv. castaneae 	 264450	
+Pseudomonas syringae pv. cerasicola 	 264451	
+Pseudomonas syringae pv. ciccaronei 	 264452	
+Pseudomonas syringae pv. coriandricola 	 264453	
+Pseudomonas syringae pv. coronafaciens 	 235275	
+Pseudomonas syringae pv. coryli 	 317659	
+Pseudomonas syringae pv. cunninghamiae 	 264454	
+Pseudomonas syringae pv. daphniphylli 	 264455	
+Pseudomonas syringae pv. delphinii 	 192088	
+Pseudomonas syringae pv. dendropanacis 	 235272	
+Pseudomonas syringae pv. dysoxyli 	 199199	
+Pseudomonas syringae pv. eriobotryae 	 129137	
+Pseudomonas syringae pv. fici 	  
+Pseudomonas syringae pv. garcae 	 251653	
+Pseudomonas syringae pv. glycinea 	 318	
+Pseudomonas syringae pv. helianthi 	 251654	
+Pseudomonas syringae pv. hibisci 	 251723	
+Pseudomonas syringae pv. japonica 	 199200	
+Pseudomonas syringae pv. lachrymans 	 53707	
+Pseudomonas syringae pv. lapsa 	 199201	
+Pseudomonas syringae pv. maculicola 	 59511	
+Pseudomonas syringae pv. mellea 	 251721	
+Pseudomonas syringae pv. mori 	 34065	
+Pseudomonas syringae pv. morsprunorum 	 129138	
+Pseudomonas syringae pv. myricae 	 129139	
+Pseudomonas syringae pv. oryzae 	 235277	
+Pseudomonas syringae pv. panici 	 199202	
+Pseudomonas syringae pv. papulans 	 83963	
+Pseudomonas syringae pv. passiflorae 	 251705	
+Pseudomonas syringae pv. persicae 	 237306	
+Pseudomonas syringae pv. philadelphi 	 251706	
+Pseudomonas syringae pv. photiniae 	 251724	
+Pseudomonas syringae pv. pisi 	 59510	
+Pseudomonas syringae pv. porri 	 83964	
+Pseudomonas syringae pv. primulae 	 251707	
+Pseudomonas syringae pv. proteae 	  
+Pseudomonas syringae pv. rhaphiolepidis 	 264457	
+Pseudomonas syringae pv. ribicola 	 55398	
+Pseudomonas syringae pv. ricini 	  
+Pseudomonas syringae pv. sesami 	 86841	
+Pseudomonas syringae pv. solidagae 	 264458	
+Pseudomonas syringae pv. spinaceae 	 264459	
+Pseudomonas syringae pv. striafaciens 	 235276	
+Pseudomonas syringae pv. syringae 	 321	
+Pseudomonas syringae pv. tabaci 	 322	
+Pseudomonas syringae pv. tagetis 	 129140	
+Pseudomonas syringae pv. theae 	 103985	
+Pseudomonas syringae pv. tomato 	 323	
+Pseudomonas syringae pv. tremae 	 200454	
+Pseudomonas syringae pv. ulmi 	 251720	
+Pseudomonas syringae pv. viburni 	 251703	
+Pseudomonas syringae pv. zizaniae 	 251700	
+Pseudomonas syringae subsp. savastanoi pv. fraxini 	 360922	
+Pseudomonas syringae subsp. savastanoi pv. nerii 	  
+Pseudomonas syringae subsp. savastanoi pv. oleae 	  
+Pseudomonas syringae van Hall 1902 	 317	
+Pseudomonas tolaasii 	 29442	
+Pseudomonas tremae 	 200454	
+Pseudomonas viridiflava 	 33069	
+Ralstonia solanacearum 	 305	
+Ralstonia syzygii 	 28097	
+see Burkholderia cepacia 	  
+Xanthomonas albilineans 	 29447	
+Xanthomonas alfalfae 	 366650	
+Xanthomonas ampelina 	 54067	
+Xanthomonas arboricola 	 56448	
+Xanthomonas axonopodis 	 53413	
+Xanthomonas bonasiae 	 2810351	
+Xanthomonas bromi 	 56449	
+Xanthomonas campestris 	 339	
+Xanthomonas cannabis 	 1885674	
+Xanthomonas cassavae 	 56450	
+Xanthomonas cissicola 	 86186	
+Xanthomonas citri 	 346	
+Xanthomonas codiaei 	 56463	
+Xanthomonas cucurbitae 	 56453	
+Xanthomonas cyanopsidis 	 29444	
+Xanthomonas cynarae 	 2754057	
+Xanthomonas dyei 	 743699	
+Xanthomonas euroxanthea 	 2259622	
+Xanthomonas euvesicatoria 	 456327	
+Xanthomonas floridensis 	 1843580	
+Xanthomonas fragariae 	 48664	
+Xanthomonas fuscans 	 366649	
+Xanthomonas gardneri 	 2754056	
+Xanthomonas hortorum 	 56454	
+Xanthomonas hyacinthi 	 56455	
+Xanthomonas hydrangeae 	 2775159	
+Xanthomonas indica 	 2912242	
+Xanthomonas lactamgena 	  
+Xanthomonas maliensis 	 1321368	
+Xanthomonas maltophilia 	 40324	
+Xanthomonas massiliensis 	 1720302	
+Xanthomonas melonis 	 56456	
+Xanthomonas nasturtii 	 1843581	
+Xanthomonas oryzae 	 347	
+Xanthomonas perforans 	 442694	
+Xanthomonas phaseoli 	 1985254	
+Xanthomonas pisi 	 56457	
+Xanthomonas populi 	 53414	
+Xanthomonas populi 	 53414	
+Xanthomonas prunicola 	 2053930	
+Xanthomonas retroflexus 	 305959	
+Xanthomonas rubrillineans 	  
+Xanthomonas sacchari 	 56458	
+Xanthomonas sinensis 	  
+Xanthomonas smithii 	 86040	
+Xanthomonas sontii 	 2650745	
+Xanthomonas theicola 	 56464	
+Xanthomonas translucens 	 343	
+Xanthomonas uredovorus 	 553	
+Xanthomonas vasicola 	 56459	
+Xanthomonas vesicatoria 	 56460	
+Xanthomonas youngii 	 2810352	
