@@ -1,0 +1,169 @@
+Pseudomonas syringae pv. phaseolicola
+Pseudomonas andropogonis
+Pseudomonas asplenii
+Pseudomonas avellanae
+Pseudomonas beteli
+Pseudomonas blatchfordae
+Pseudomonas cannabina
+Pseudomonas caricapapayae
+Pseudomonas caryophylli
+Pseudomonas cattleyae
+Pseudomonas cichorii
+Pseudomonas cissicola
+Pseudomonas coronafaciens
+Pseudomonas costantinii
+Pseudomonas dodoneae
+Pseudomonas ficuserectae
+Pseudomonas flectens
+Pseudomonas fuscovaginae
+Pseudomonas gingeri
+Pseudomonas gladioli
+Pseudomonas gladioli pv. alliicola
+Pseudomonas hibiscicola 
+Pseudomonas marginalis
+Pseudomonas marginalis pv. alfalfae
+Pseudomonas marginalis pv. marginalis
+Pseudomonas marginalis pv. pastinacae
+Pseudomonas mediterranea
+Pseudomonas meliae
+Pseudomonas palleroniana
+Pseudomonas pallidae
+Pseudomonas plantarii
+Pseudomonas pomi
+Pseudomonas salomonii
+Pseudomonas savastanoi
+Pseudomonas savastanoi pv. fraxini
+Pseudomonas savastanoi pv. glycinea
+Pseudomonas savastanoi pv. nerii
+Pseudomonas savastanoi pv. phaseolicola
+Pseudomonas savastanoi pv. retacarpa
+Pseudomonas savastanoi pv. savastanoi
+Pseudomonas solanacearum
+Pseudomonas syringae
+Pseudomonas syringae group
+Pseudomonas syringae pv. aceris
+Pseudomonas syringae pv. actinidiae 
+Pseudomonas syringae pv. aesculi
+Pseudomonas syringae pv. alisalensis 
+Pseudomonas syringae pv. antirrhini
+Pseudomonas syringae pv. apii
+Pseudomonas syringae pv. aptata 
+Pseudomonas syringae pv. atrofaciens
+Pseudomonas syringae pv. atropurpurea
+Pseudomonas syringae pv. avii 
+Pseudomonas syringae pv. berberidis
+Pseudomonas syringae pv. broussonetiae
+Pseudomonas syringae pv. castaneae
+Pseudomonas syringae pv. cerasicola 
+Pseudomonas syringae pv. ciccaronei 
+Pseudomonas syringae pv. coriandricola
+Pseudomonas syringae pv. coronafaciens
+Pseudomonas syringae pv. coryli 
+Pseudomonas syringae pv. cunninghamiae 
+Pseudomonas syringae pv. daphniphylli 
+Pseudomonas syringae pv. delphinii 
+Pseudomonas syringae pv. dendropanacis 
+Pseudomonas syringae pv. dysoxyli
+Pseudomonas syringae pv. eriobotryae
+Pseudomonas syringae pv. fici
+Pseudomonas syringae pv. garcae
+Pseudomonas syringae pv. glycinea
+Pseudomonas syringae pv. helianthi
+Pseudomonas syringae pv. hibisci 
+Pseudomonas syringae pv. japonica
+Pseudomonas syringae pv. lachrymans
+Pseudomonas syringae pv. lapsa
+Pseudomonas syringae pv. maculicola
+Pseudomonas syringae pv. mellea
+Pseudomonas syringae pv. mori
+Pseudomonas syringae pv. morsprunorum
+Pseudomonas syringae pv. myricae
+Pseudomonas syringae pv. oryzae
+Pseudomonas syringae pv. panici
+Pseudomonas syringae pv. papulans
+Pseudomonas syringae pv. passiflorae
+Pseudomonas syringae pv. persicae
+Pseudomonas syringae pv. philadelphi 
+Pseudomonas syringae pv. photiniae
+Pseudomonas syringae pv. pisi
+Pseudomonas syringae pv. porri
+Pseudomonas syringae pv. primulae
+Pseudomonas syringae pv. proteae
+Pseudomonas syringae pv. rhaphiolepidis
+Pseudomonas syringae pv. ribicola
+Pseudomonas syringae pv. ricini
+Pseudomonas syringae pv. sesami
+Pseudomonas syringae pv. solidagae
+Pseudomonas syringae pv. spinaceae
+Pseudomonas syringae pv. striafaciens
+Pseudomonas syringae pv. syringae
+Pseudomonas syringae pv. tabaci
+Pseudomonas syringae pv. tagetis
+Pseudomonas syringae pv. theae
+Pseudomonas syringae pv. tomato
+Pseudomonas syringae pv. tremae 
+Pseudomonas syringae pv. ulmi
+Pseudomonas syringae pv. viburni 
+Pseudomonas syringae pv. zizaniae
+Pseudomonas syringae subsp. savastanoi pv. fraxini
+Pseudomonas syringae subsp. savastanoi pv. nerii 
+Pseudomonas syringae subsp. savastanoi pv. oleae 
+Pseudomonas syringae van Hall 1902
+Pseudomonas tolaasii
+Pseudomonas tremae
+Pseudomonas viridiflava
+Ralstonia solanacearum
+Ralstonia syzygii
+see Burkholderia cepacia
+Xanthomonas albilineans
+Xanthomonas alfalfae
+Xanthomonas ampelina
+Xanthomonas arboricola 
+Xanthomonas axonopodis
+Xanthomonas bonasiae
+Xanthomonas bromi 
+Xanthomonas campestris
+Xanthomonas cannabis
+Xanthomonas cassavae
+Xanthomonas cissicola
+Xanthomonas citri
+Xanthomonas codiaei 
+Xanthomonas cucurbitae
+Xanthomonas cyanopsidis
+Xanthomonas cynarae
+Xanthomonas dyei
+Xanthomonas euroxanthea
+Xanthomonas euvesicatoria
+Xanthomonas floridensis 
+Xanthomonas fragariae
+Xanthomonas fuscans
+Xanthomonas gardneri
+Xanthomonas hortorum
+Xanthomonas hyacinthi
+Xanthomonas hydrangeae
+Xanthomonas indica
+Xanthomonas lactamgena
+Xanthomonas maliensis
+Xanthomonas maltophilia
+Xanthomonas massiliensis
+Xanthomonas melonis
+Xanthomonas nasturtii
+Xanthomonas oryzae
+Xanthomonas perforans
+Xanthomonas phaseoli
+Xanthomonas pisi
+Xanthomonas populi
+Xanthomonas populi
+Xanthomonas prunicola
+Xanthomonas retroflexus
+Xanthomonas rubrillineans
+Xanthomonas sacchari
+Xanthomonas sinensis
+Xanthomonas smithii
+Xanthomonas sontii
+Xanthomonas theicola
+Xanthomonas translucens
+Xanthomonas uredovorus
+Xanthomonas vasicola
+Xanthomonas vesicatoria
+Xanthomonas youngii
