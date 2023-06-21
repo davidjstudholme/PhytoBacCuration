@@ -1,6 +1,4 @@
-# PhytoBacExplorer
-Code associated with PhytoBacExplorer BBR project (BB/W018853/1)
-
+# PhytoBacCuration
 
 ## A database of taxa that are in scope for the project
 We need a database of bacterial taxa that are within scope of this project. I assembled a list of taxonomic names, taken from the following sources:
